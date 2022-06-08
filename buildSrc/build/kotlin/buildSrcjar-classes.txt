@@ -1,0 +1,1 @@
+E:\myasgit\MyComposeFirst\buildSrc\build\classes\kotlin\main\com\test\compose\build\configurations\ProjectConfigs.class;E:\myasgit\MyComposeFirst\buildSrc\build\classes\kotlin\main\com\test\compose\dependencies\build\Versions.class
